@@ -5,3 +5,4 @@ __pycache__/
 dist/
 .venv/
 .env
+.pytest_cache/
